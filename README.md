@@ -6,6 +6,7 @@
 **Routing Protocol:** OSPFv2 (IPv4) — Both Autonomous Systems  
 **Inter-AS Routing:** BGP between AS100 and AS200  
 
+![Full Topology](Full_Topology.png)
 ---
 
 ## Autonomous Systems
